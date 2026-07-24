@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel de Lima Mazali</h1>
-<h3 align="center">DevOps Engineer | SRE | Bare Metal Specialist</h3>
+<h3 align="center">DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mezali&label=Profile%20views&color=0e75b6&style=flat" alt="mezali" />
@@ -13,10 +13,6 @@ DevOps Engineer focused on infrastructure, networking, and cost optimization. Cu
 - 🌱 I’m currently learning **Advanced K8s for CKA Certification**.
 - 💬 Ask me about **Linux, Self-hosting, Networking & Automation**.
 - 📫 Reach me by email: **danieldelimamazali@hotmail.com**
-
-<p align="left">
-  <a href="https://mezali.github.io/Mezali/">📄 <strong>Check out my Resume / Portfolio</strong></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
